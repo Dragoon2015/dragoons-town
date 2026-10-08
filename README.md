@@ -29,3 +29,7 @@ The app contains bundled web assets; sharing the APK also makes those assets ins
 
 
 [Download the first Android playtest](https://github.com/Dragoon2015/dragoons-town/releases/tag/v0.13.0-alpha.1).
+
+## AI assistance
+
+Dragoon's Town was created by Dragoon2015 with AI assistance from OpenAI's Codex for programming, feature implementation, testing support, and release preparation. The game's direction and feature decisions are guided by Dragoon2015.

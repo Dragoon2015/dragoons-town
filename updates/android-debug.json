@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "packageId": "com.pauljchapin.dragoons_town.debug",
+  "versionCode": 2,
+  "versionName": "0.13.1-debug",
+  "minSdk": 24,
+  "size": 4355806,
+  "sha256": "fa3eccf230a36e10b2bbb4772f241e2726b08c528b3395be9bb4a4b45f814a3a",
+  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.13.1-alpha.1/dragoons-town-0.13.1-debug.apk",
+  "notes": "Adds in-app update checks, verified downloads, and Android installation approval. Created with AI assistance from OpenAI’s Codex."
+}

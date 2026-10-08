@@ -1,0 +1,7 @@
+# APKs are uploaded as release assets, not committed to the repository.
+*.apk
+*.aab
+*.jks
+*.keystore
+.env*
+node_modules/

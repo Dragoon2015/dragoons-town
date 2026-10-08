@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageId": "com.pauljchapin.dragoons_town.debug",
-  "versionCode": 2,
-  "versionName": "0.13.1-debug",
+  "versionCode": 3,
+  "versionName": "0.14.0-debug",
   "minSdk": 24,
-  "size": 4355806,
-  "sha256": "fa3eccf230a36e10b2bbb4772f241e2726b08c528b3395be9bb4a4b45f814a3a",
-  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.13.1-alpha.1/dragoons-town-0.13.1-debug.apk",
-  "notes": "Adds in-app update checks, verified downloads, and Android installation approval. Created with AI assistance from OpenAI’s Codex."
+  "size": 4341982,
+  "sha256": "66f7747c5b1344c863fe7eebb82b046ad79d8ebc68082260b4805929682d6b7e",
+  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.14.0-alpha.1/dragoons-town-0.14.0-debug.apk",
+  "notes": "Markets, uncapped prestige, farms, yachts, islands, racing teams, and 27 sports clubs. AI-assisted development with OpenAI Codex."
 }

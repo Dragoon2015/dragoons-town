@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageId": "com.pauljchapin.dragoons_town.debug",
-  "versionCode": 3,
-  "versionName": "0.14.0-debug",
+  "versionCode": 4,
+  "versionName": "0.15.0-debug",
   "minSdk": 24,
-  "size": 4341982,
-  "sha256": "66f7747c5b1344c863fe7eebb82b046ad79d8ebc68082260b4805929682d6b7e",
-  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.14.0-alpha.1/dragoons-town-0.14.0-debug.apk",
-  "notes": "Markets, uncapped prestige, farms, yachts, islands, racing teams, and 27 sports clubs. AI-assisted development with OpenAI Codex."
+  "size": 4398135,
+  "sha256": "f30ee3c26510e12be51d513372a3b2778c61036192795baff8e74f8c3d9d6736",
+  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.15.0-alpha.1/dragoons-town-0.15.0-debug.apk",
+  "notes": "Pixel Borough, condemned building restorations, wider opening prices, 10 million locations per business, markets, estates and sports clubs. AI-assisted development with OpenAI Codex."
 }

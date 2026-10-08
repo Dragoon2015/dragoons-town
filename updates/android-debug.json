@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageId": "com.pauljchapin.dragoons_town.debug",
-  "versionCode": 4,
-  "versionName": "0.15.0-debug",
+  "versionCode": 5,
+  "versionName": "0.16.0-debug",
   "minSdk": 24,
-  "size": 4398135,
-  "sha256": "f30ee3c26510e12be51d513372a3b2778c61036192795baff8e74f8c3d9d6736",
-  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.15.0-alpha.1/dragoons-town-0.15.0-debug.apk",
-  "notes": "Pixel Borough, condemned building restorations, wider opening prices, 10 million locations per business, markets, estates and sports clubs. AI-assisted development with OpenAI Codex."
+  "size": 4348474,
+  "sha256": "711bb194776318e84246bcf66267b6009d0d92f37221c68a371d41e31496f9a5",
+  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.16.0-alpha.1/dragoons-town-0.16.0-debug.apk",
+  "notes": "Town-first screen, persistent bottom navigation, compact bank and business controls, and separate scrolling menu pages. AI-assisted development with OpenAI Codex."
 }

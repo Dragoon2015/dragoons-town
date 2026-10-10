@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageId": "com.pauljchapin.dragoons_town.debug",
-  "versionCode": 5,
-  "versionName": "0.16.0-debug",
+  "versionCode": 6,
+  "versionName": "0.17.0-debug",
   "minSdk": 24,
-  "size": 4348474,
-  "sha256": "711bb194776318e84246bcf66267b6009d0d92f37221c68a371d41e31496f9a5",
-  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.16.0-alpha.1/dragoons-town-0.16.0-debug.apk",
-  "notes": "Town-first screen, persistent bottom navigation, compact bank and business controls, and separate scrolling menu pages. AI-assisted development with OpenAI Codex."
+  "size": 4352698,
+  "sha256": "14400dd2007f11449ed0179565dd7d927a2e7efad3141ea6c4baaafdc0de8a89",
+  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.17.0-alpha.1/dragoons-town-0.17.0-debug.apk",
+  "notes": "# Dragoon's Town 0.17 — Make the town yours\n\n- Give your town a custom name from More. The name stays through saves, backups and prestige.\n- Pin a savings goal for a business, home, vehicle or estate. Track the price and progress without changing the purchase controls or spending automatically.\n- View recorded lifetime earnings, business locations purchased, bank taps and prestige count in the town statistics panel.\n- Older saves migrate into the new version. Statistics use recorded history; the update cannot reconstruct activity that older versions did not record.\n\nAndroid version code: 6. Existing-player package: `com.pauljchapin.dragoons_town.debug`. Compatible installation requires the original signing key. A preview uses `com.pauljchapin.dragoons_town.preview` and installs separately.\n\nNo real payments, ads or player accounts are enabled. Progress is stored on the player's device. Export a save backup before testing an update.\n\nCreated by Dragoon2015 with AI assistance from OpenAI's Codex. Physical-device installation and visual QA must be checked on the player's phone before describing this release as device-tested.\n\nAI-assisted development with OpenAI Codex."
 }

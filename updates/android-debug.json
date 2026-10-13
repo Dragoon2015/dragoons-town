@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageId": "com.pauljchapin.dragoons_town.debug",
-  "versionCode": 15,
-  "versionName": "0.26.0-debug",
+  "versionCode": 16,
+  "versionName": "0.27.0-debug",
   "minSdk": 24,
-  "size": 9702689,
-  "sha256": "38810c0582b62ef36f2cbd9fb1a59a54636a2459d30f400812f672925d81a235",
-  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.26.0-alpha.1/dragoons-town-0.26.0-debug.apk",
-  "notes": "# Dragoon's Town v0.26\n\nDevelop each district and build permanent landmarks across your regional empire. Existing progress and the current economy remain compatible.\n\n- Three optional one-time contracts per district reward growing both ventures to 1, 25 and 100 locations. Preview civic-supply rewards and claim at your own pace, with no deadlines. Existing holdings qualify.\n- Build Harbor Observatory, Regional Archives and Botanical Conservatory after meeting regional requirements. Review cash and civic-supply costs first. These permanent landmarks are cosmetic; display an owned landmark or hide it for free.\n- Find contracts in Progress → Goals & contracts and landmarks in Progress → Districts & regions. Illustrated icons match the town, and new guide lessons explain both systems.\n- Save migration adds only the new project record. Existing cash, businesses, estates, vehicles, market holdings, prestige and repeatable contract overflow remain protected. New progress survives prestige and travels with your game backup.\n\nBusiness prices, income formulas, milestone thresholds and prestige rules remain unchanged. Optional landmark construction is manual and excluded from global MAX. No real payments, ads or paid servers were added.\n\nAndroid players: gear → App updates → Check now, then install over the existing app without uninstalling. Browser players: refresh the same game link.\n\nAI-assisted development with OpenAI Codex. Physical Thor/Android 13 installation and sustained performance remain separate playtests.\n\nAI-assisted development with OpenAI Codex."
+  "size": 9704681,
+  "sha256": "48f8e3db39ff30572c3ddfe163d6dab14f36080a5dc53a07c9ffd8d803dec141",
+  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.27.0-alpha.1/dragoons-town-0.27.0-debug.apk",
+  "notes": "# Dragoon's Town 0.27 release notes\n\n## More life around each purchase\n\n- Restoring an original business or permanent district venture now finishes with a small opening celebration.\n- Expanding an already restored location can show a short handcart delivery with visitors and parcels.\n- Low town activity keeps the scene lighter; Full adds a second visitor and parcel detail.\n\n## Comfort and compatibility\n\n- Street moments follow the existing Off/Low/Full and Life pause controls.\n- Reduced motion, battery saver, app/background pauses and district switches stop the new motion.\n- The overlays are decorative, cannot capture taps and add no saved progress.\n- Existing saves, prices, income, prestige, artwork, Android package and original signing identity remain compatible.\n- Real payments and ads remain disabled.\n\nBrowser and compatible Android publication will follow only after the complete cloud, viewport, mobile-touch, package and signature checks pass. Physical Android 13/Thor testing remains separate and is not claimed by automated verification.\n\nAI-assisted development with OpenAI Codex."
 }

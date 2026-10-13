@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageId": "com.pauljchapin.dragoons_town.debug",
-  "versionCode": 16,
-  "versionName": "0.27.0-debug",
+  "versionCode": 17,
+  "versionName": "0.28.0-debug",
   "minSdk": 24,
-  "size": 9704681,
-  "sha256": "48f8e3db39ff30572c3ddfe163d6dab14f36080a5dc53a07c9ffd8d803dec141",
-  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.27.0-alpha.1/dragoons-town-0.27.0-debug.apk",
-  "notes": "# Dragoon's Town 0.27 release notes\n\n## More life around each purchase\n\n- Restoring an original business or permanent district venture now finishes with a small opening celebration.\n- Expanding an already restored location can show a short handcart delivery with visitors and parcels.\n- Low town activity keeps the scene lighter; Full adds a second visitor and parcel detail.\n\n## Comfort and compatibility\n\n- Street moments follow the existing Off/Low/Full and Life pause controls.\n- Reduced motion, battery saver, app/background pauses and district switches stop the new motion.\n- The overlays are decorative, cannot capture taps and add no saved progress.\n- Existing saves, prices, income, prestige, artwork, Android package and original signing identity remain compatible.\n- Real payments and ads remain disabled.\n\nBrowser and compatible Android publication will follow only after the complete cloud, viewport, mobile-touch, package and signature checks pass. Physical Android 13/Thor testing remains separate and is not claimed by automated verification.\n\nAI-assisted development with OpenAI Codex."
+  "size": 9706169,
+  "sha256": "93c3eefbd7f5181b2f6056c38f4b3d918538a09f410001e2e235a08efb7e6634",
+  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.28.0-alpha.1/dragoons-town-0.28.0-debug.apk",
+  "notes": "# Dragoon's Town 0.28 release notes\n\n## More life around lasting assets\n\n- Direct home and personal-vehicle purchases now receive a short key-handoff moment in their illustrated card.\n- Direct estate and fictional-team purchases now receive a brief opening ribbon.\n- Direct home, vehicle and estate upgrades receive the same compact visual acknowledgment.\n- Low visual activity keeps the effect simple; Full adds a few extra sparkles. Bulk purchases stay immediate and do not queue repeated animations.\n\n## Comfort and compatibility\n\n- Asset moments follow the existing Off/Low/Full and Life pause controls.\n- Reduced motion, battery saver, app/background pauses and Android lifecycle pauses stop the new motion.\n- The overlays are decorative, hidden from assistive technology and unable to capture taps.\n- Existing saves, prices, income, prestige, artwork, Android package and original signing identity remain compatible.\n- Real payments and ads remain disabled.\n\nBrowser and compatible Android publication will follow only after complete cloud, viewport, mobile-touch, package and signature checks pass. Physical Android 13/Thor testing remains separate and is not claimed by automated verification.\n\nAI-assisted development with OpenAI Codex."
 }

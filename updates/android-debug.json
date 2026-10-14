@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageId": "com.pauljchapin.dragoons_town.debug",
-  "versionCode": 17,
-  "versionName": "0.28.0-debug",
+  "versionCode": 18,
+  "versionName": "0.29.0-debug",
   "minSdk": 24,
-  "size": 9706169,
-  "sha256": "93c3eefbd7f5181b2f6056c38f4b3d918538a09f410001e2e235a08efb7e6634",
-  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.28.0-alpha.1/dragoons-town-0.28.0-debug.apk",
-  "notes": "# Dragoon's Town 0.28 release notes\n\n## More life around lasting assets\n\n- Direct home and personal-vehicle purchases now receive a short key-handoff moment in their illustrated card.\n- Direct estate and fictional-team purchases now receive a brief opening ribbon.\n- Direct home, vehicle and estate upgrades receive the same compact visual acknowledgment.\n- Low visual activity keeps the effect simple; Full adds a few extra sparkles. Bulk purchases stay immediate and do not queue repeated animations.\n\n## Comfort and compatibility\n\n- Asset moments follow the existing Off/Low/Full and Life pause controls.\n- Reduced motion, battery saver, app/background pauses and Android lifecycle pauses stop the new motion.\n- The overlays are decorative, hidden from assistive technology and unable to capture taps.\n- Existing saves, prices, income, prestige, artwork, Android package and original signing identity remain compatible.\n- Real payments and ads remain disabled.\n\nBrowser and compatible Android publication will follow only after complete cloud, viewport, mobile-touch, package and signature checks pass. Physical Android 13/Thor testing remains separate and is not claimed by automated verification.\n\nAI-assisted development with OpenAI Codex."
+  "size": 9706673,
+  "sha256": "2e8477777496a08c6ab0997ea413aaba6a33ec2b93919698e12cc73a13ba7d98",
+  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.29.0-alpha.1/dragoons-town-0.29.0-debug.apk",
+  "notes": "# Dragoon's Town 0.29 release notes\n\n## Visible business growth\n\n- Direct purchases that cross the existing 25, 100 or 1,000-location architectural stages now show a brief scaffold-and-builder moment on the town map.\n- First openings keep their celebration, while ordinary successful purchases keep their delivery.\n- Large direct purchases show only one bounded construction moment even when several visual stages are crossed.\n\n## Comfort and compatibility\n\n- The construction moment follows the existing Off/Low/Full and Life pause controls.\n- Reduced motion, battery saver, browser backgrounding and Android lifecycle pauses stop the effect.\n- Decorative artwork is hidden from assistive technology and cannot capture taps.\n- Existing saves, business counts, prices, income, prestige, milestones, artwork, Android package and original signing identity remain compatible.\n- Real payments and ads remain disabled.\n\nBrowser and compatible Android publication will follow only after complete source, viewport, mobile-touch, package and signature checks pass. Physical Android 13/Thor testing remains separate and is not claimed by automated verification.\n\nAI-assisted development with OpenAI Codex.\n\nAI-assisted development with OpenAI Codex."
 }

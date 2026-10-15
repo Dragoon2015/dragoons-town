@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageId": "com.pauljchapin.dragoons_town.debug",
-  "versionCode": 18,
-  "versionName": "0.29.0-debug",
+  "versionCode": 19,
+  "versionName": "0.30.0-debug",
   "minSdk": 24,
-  "size": 9706673,
-  "sha256": "2e8477777496a08c6ab0997ea413aaba6a33ec2b93919698e12cc73a13ba7d98",
-  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.29.0-alpha.1/dragoons-town-0.29.0-debug.apk",
-  "notes": "# Dragoon's Town 0.29 release notes\n\n## Visible business growth\n\n- Direct purchases that cross the existing 25, 100 or 1,000-location architectural stages now show a brief scaffold-and-builder moment on the town map.\n- First openings keep their celebration, while ordinary successful purchases keep their delivery.\n- Large direct purchases show only one bounded construction moment even when several visual stages are crossed.\n\n## Comfort and compatibility\n\n- The construction moment follows the existing Off/Low/Full and Life pause controls.\n- Reduced motion, battery saver, browser backgrounding and Android lifecycle pauses stop the effect.\n- Decorative artwork is hidden from assistive technology and cannot capture taps.\n- Existing saves, business counts, prices, income, prestige, milestones, artwork, Android package and original signing identity remain compatible.\n- Real payments and ads remain disabled.\n\nBrowser and compatible Android publication will follow only after complete source, viewport, mobile-touch, package and signature checks pass. Physical Android 13/Thor testing remains separate and is not claimed by automated verification.\n\nAI-assisted development with OpenAI Codex.\n\nAI-assisted development with OpenAI Codex."
+  "size": 9706677,
+  "sha256": "864e4450d213e13543eb35c1228c606aff51964b8f70dba1e2503cb999bd84bc",
+  "apkUrl": "https://github.com/Dragoon2015/dragoons-town/releases/download/v0.30.0-alpha.1/dragoons-town-0.30.0-debug.apk",
+  "notes": "# Dragoon's Town 0.30 release notes\n\n## Consistent business purchase feedback\n\n- Buying from the selected business panel now shows the same opening, delivery or construction moment as buying directly on the town map.\n- Purchases crossing 25, 100 or 1,000 locations continue to show one bounded scaffold-and-builder moment.\n- Failed purchases do not display a success effect, and bulk or manager purchases do not queue animations.\n\n## Comfort and compatibility\n\n- Existing activity, reduced-motion, battery-saver, browser visibility and Android lifecycle controls still govern the effect.\n- Existing saves, prices, income, prestige, milestones, artwork, Android package and original signing identity remain compatible.\n- Real payments and ads remain disabled.\n\nBrowser and compatible Android publication will follow only after complete source, viewport, mobile-touch, package and signature checks pass. Physical Android 13/Thor testing remains separate and is not claimed by automated verification.\n\nAI-assisted development with OpenAI Codex.\n\nAI-assisted development with OpenAI Codex."
 }
